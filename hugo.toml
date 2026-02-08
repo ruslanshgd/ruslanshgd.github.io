@@ -46,6 +46,14 @@ defaultContentLanguage = "ru"
     end = "2022"
     description = "Спроектировал >30 проектов: от маленьких до больших и сложных веб-интерфейсов и мобильных приложений для инженеров."
     logo = "images/logos/siemens.png"
+
+  [[params.career.items]]
+    company = "Купибилет"
+    role = "UX/UI дизайнер"
+    start = "2017"
+    end = "2018"
+    description = "Проектировал веб- и мобилки: отзывчивая версия сайта, улучшал сценарии на мобилках."
+    logo = "images/logos/купибилет.png"
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML"]
