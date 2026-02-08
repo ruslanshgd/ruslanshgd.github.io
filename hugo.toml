@@ -61,6 +61,14 @@ defaultContentLanguage = "ru"
     start = "2016"
     end = "2017"
     description = "Проектировал один крупный проект: сайт-агрегатор различных программ лояльности."
+
+  [[params.career.items]]
+    company = "Click-Click"
+    role = "UX/UI дизайнер"
+    start = "2015"
+    end = "2016"
+    description = "Проектировал интерфейс браузера Orbitum и смежные проекты компании."
+    logo = "/images/logos/click-click.png"
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML"]
