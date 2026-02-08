@@ -54,6 +54,13 @@ defaultContentLanguage = "ru"
     end = "2018"
     description = "Проектировал веб- и мобилки: отзывчивая версия сайта, улучшал сценарии на мобилках."
     logo = "images/logos/купибилет.png"
+
+  [[params.career.items]]
+    company = "MPMG"
+    role = "UX/UI дизайнер"
+    start = "2016"
+    end = "2017"
+    description = "Проектировал один крупный проект: сайт-агрегатор различных программ лояльности."
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML"]
