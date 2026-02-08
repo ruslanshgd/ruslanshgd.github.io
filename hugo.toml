@@ -20,6 +20,12 @@ defaultContentLanguage = "ru"
 
   [params.education]
 
+
+  [[params.education.universities]]
+    name = "СПбГУПТД"
+    year = "2016"
+    speciality = "Графический дизайн"
+    degree = "Специалист"
   [params.career]
 
 
