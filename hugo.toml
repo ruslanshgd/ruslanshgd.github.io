@@ -29,6 +29,7 @@ defaultContentLanguage = "ru"
     start = "2023"
     end = "по настоящее время"
     description = "Проектировал платформу инцидент менеджмента, а сейчас речевую аналитику для лучшего банка."
+    logo = "images/logos/т-банк.png"
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML"]
