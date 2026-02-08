@@ -5,18 +5,18 @@ defaultContentLanguage = "ru"
 
 [params]
   description = "Кейсы и портфолио"
-  author_name = ""
-  author_surname = ""
-  author_grade = ""
-  author_city = ""
-  author_intro = ""
+  author_name = "Руслан"
+  author_surname = "Шарипов"
+  author_grade = "старший продуктовый дизайнер"
+  author_city = "Санкт-Петербург"
+  author_intro = "👋🏻, я проектирую цифровые продукты с учетом болей пользователей и бизнеса."
   author_image = "images/author.jpg"
-  author_email = ""
-  author_telegram = ""
-  author_linkedin = ""
+  author_email = "ruslanshgd@gmail.com"
+  author_telegram = "https://t.me/rsgdru"
+  author_linkedin = "https://www.linkedin.com/in/ruslan-sharipov/"
   author_dribbble = ""
-  author_behance = ""
-  author_cv = ""
+  author_behance = "https://www.behance.net/ruslansh"
+  author_cv = "https://drive.google.com/file/d/17-WqbIrYUbzBeoUAbawsEdOcYIFguWre/view?usp=sharing"
 
   [params.education]
 
@@ -27,3 +27,4 @@ defaultContentLanguage = "ru"
   section = ["HTML"]
 
 [taxonomies]
+  # optional later: tag = "tags"
