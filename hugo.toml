@@ -21,7 +21,13 @@ defaultContentLanguage = "ru"
   [params.education]
 
 
-  [[params.education.universities]]
+  
+  [[params.education.courses]]
+    title = "Product Heroes"
+    url = "https://heroes.camp/"
+    provider = "Илья Красинский"
+    status = "2023"
+[[params.education.universities]]
     name = "СПбГУПТД"
     year = "2016"
     speciality = "Графический дизайн"
