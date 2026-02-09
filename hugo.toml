@@ -33,6 +33,12 @@ defaultContentLanguage = "ru"
     url = "https://zamesin.ru/producthowto/"
     provider = "Ваня Замесин"
     status = "2023"
+
+  [[params.education.courses]]
+    title = "Основы продакт-менеджмента"
+    url = "https://productdo.it/course"
+    provider = "ProductDO"
+    status = "2023"
 [[params.education.universities]]
     name = "СПбГУПТД"
     year = "2016"
