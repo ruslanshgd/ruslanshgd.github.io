@@ -27,6 +27,12 @@ defaultContentLanguage = "ru"
     url = "https://heroes.camp/"
     provider = "Илья Красинский"
     status = "2023"
+
+  [[params.education.courses]]
+    title = "«Как делать продукт»"
+    url = "https://zamesin.ru/producthowto/"
+    provider = "Ваня Замесин"
+    status = "2023"
 [[params.education.universities]]
     name = "СПбГУПТД"
     year = "2016"
