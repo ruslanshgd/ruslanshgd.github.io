@@ -61,6 +61,7 @@ layout_blocks:
   text: Каждый юнит может кастомизироваться через тап по кнопке шестиренки. Собственно,
     юнит и представляет из себя ряд виджетов, которые юзер добавит на экран и настроит
     выбрав сенсор, название, тип визуализации и размер.
+  figma_url: https://www.figma.com/proto/bl2WnMS7fr4D2JkJVQeukC/figmaTestPlugin?page-id=0%3A1&node-id=143-552&p=f&viewport=401%2C-73%2C0.24&t=a0dbQUEgclw8DYzB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=143%3A552&hotspot-hints=0
 results: '✅ Автоматизируй это!
 
   Выше показал одну из автоматизаций на примере работы с темами и компонентами платформ
