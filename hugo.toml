@@ -27,3 +27,4 @@ defaultContentLanguage = "ru"
   section = ["HTML"]
 
 [taxonomies]
+  # optional later: tag = "tags"
