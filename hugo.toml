@@ -5,103 +5,25 @@ defaultContentLanguage = "ru"
 
 [params]
   description = "Кейсы и портфолио"
-  author_name = "Руслан"
-  author_surname = "Шарипов"
-  author_grade = "старший продуктовый дизайнер"
-  author_city = "Санкт-Петербург"
-  author_intro = "👋🏻, я проектирую цифровые продукты с учетом болей пользователей и бизнеса."
+  author_name = ""
+  author_surname = ""
+  author_grade = ""
+  author_city = ""
+  author_intro = ""
   author_image = "images/author.jpg"
-  author_email = "ruslanshgd@gmail.com"
-  author_telegram = "https://t.me/rsgdru"
-  author_linkedin = "https://www.linkedin.com/in/ruslan-sharipov/"
+  author_email = ""
+  author_telegram = ""
+  author_linkedin = ""
   author_dribbble = ""
-  author_behance = "https://www.behance.net/ruslansh"
-  author_cv = "https://drive.google.com/file/d/17-WqbIrYUbzBeoUAbawsEdOcYIFguWre/view?usp=sharing"
+  author_behance = ""
+  author_cv = ""
 
   [params.education]
 
-
-  
-  [[params.education.courses]]
-    title = "Product Heroes"
-    url = "https://heroes.camp/"
-    provider = "Илья Красинский"
-    status = "2023"
-
-  [[params.education.courses]]
-    title = "«Как делать продукт»"
-    url = "https://zamesin.ru/producthowto/"
-    provider = "Ваня Замесин"
-    status = "2023"
-
-  [[params.education.courses]]
-    title = "Основы продакт-менеджмента"
-    url = "https://productdo.it/course"
-    provider = "ProductDO"
-    status = "2023"
-
-  [[params.education.courses]]
-    title = "Симулятор управления продуктом на основе данных"
-    url = "https://gopractice.ru/course/pm/"
-    provider = "GoPractice"
-    status = "2023"
-[[params.education.universities]]
-    name = "СПбГУПТД"
-    year = "2016"
-    speciality = "Графический дизайн"
-    degree = "Специалист"
   [params.career]
 
-
-  [[params.career.items]]
-    company = "Т-Банк"
-    role = "Старший продуктовый дизайнер"
-    start = "2023"
-    end = "по настоящее время"
-    description = "Проектировал платформу инцидент менеджмента, а сейчас речевую аналитику для лучшего банка."
-    logo = "images/logos/т-банк.png"
-
-  [[params.career.items]]
-    company = "МойОфис"
-    role = "Старший UX дизайнер"
-    start = "Май 2023"
-    end = "Октябрь 2023"
-    description = "За время испытательного срока удалось:\n\n- «МойОфис Текст» работал над сценариями: «Сравнение документов» и «Подпись и нумерация объектов».\n- В «МойОфис Таблицы» спроектировал сценарии для макрокоманд.\n- «МойОфис Презентации» вместе с командой сделали классное переключение между слайдов 😀.\n- Процессные активности: выходил на проектного менеджера, гендиректора, руководителя маркетинга с презентацией и видео, подсвечивая точки роста для сайта, с посчитанной юнит-экономикой b2c.\n- Для команды: сделал расчет, приоритезацию и дэшборд эффективности uikit (в деньгах, времени), и создал ui-kit под 3 десктопных редактора."
-    logo = "images/logos/мойофис.png"
-
-  [[params.career.items]]
-    company = "Siemens"
-    role = "UX/UI дизайнер"
-    start = "2018"
-    end = "2022"
-    description = "Спроектировал >30 проектов: от маленьких до больших и сложных веб-интерфейсов и мобильных приложений для инженеров."
-    logo = "images/logos/siemens.png"
-
-  [[params.career.items]]
-    company = "Купибилет"
-    role = "UX/UI дизайнер"
-    start = "2017"
-    end = "2018"
-    description = "Проектировал веб- и мобилки: отзывчивая версия сайта, улучшал сценарии на мобилках."
-    logo = "images/logos/купибилет.png"
-
-  [[params.career.items]]
-    company = "MPMG"
-    role = "UX/UI дизайнер"
-    start = "2016"
-    end = "2017"
-    description = "Проектировал один крупный проект: сайт-агрегатор различных программ лояльности."
-
-  [[params.career.items]]
-    company = "Click-Click"
-    role = "UX/UI дизайнер"
-    start = "2015"
-    end = "2016"
-    description = "Проектировал интерфейс браузера Orbitum и смежные проекты компании."
-    logo = "/images/logos/click-click.png"
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML"]
 
 [taxonomies]
-  # optional later: tag = "tags"
